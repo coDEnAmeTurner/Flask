@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 promax",
+    "price": 27000000,
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone15hero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369781",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 11",
+    "price": 27000000,
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone15hero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369781",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S23 Ultra Instinct",
+    "price": 56000000,
+    "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone15hero-202309_FMT_WHH?wid=508&hei=472&fmt=p-jpg&qlt=95&.v=1693086369781",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Huawei CCP",
+    "price": 67000000,
+    "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/tablets-20230518/matepad-se-series/matepad-se-series-card-1.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 5,
+    "name": "Lenovo Tab M10 (3rd Gen)",
+    "price": 14000000,
+    "image": "https://p2-ofp.static.pub/fes/cms/2023/02/22/pkhjbh23c7sjfxf76k6e6usevy3ixi851221.png",
+    "category_id": 2
+  }
+]
